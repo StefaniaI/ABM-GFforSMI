@@ -1,5 +1,4 @@
-# GFforSMI
-Group Fairness for Social Media Influencers
+# Group Fairness for Social Media Influencers
 
 This repository contains the code for the simulation presented in "Group Fairness for Content Creators: the Role of Human and Algorithmic Biases under Popularity-based Recommendations" publish within the Proceedings of the 17th ACM Conference on Recommender Systems (RecSys 2023). We do not include the data resulted from the simulation as the respective file is extremely large (almost 180GB). Regenerating the data takes about three days when running it on three threads (see Computing Infrastructure for more details). The code extends the one we developed previously for understanding individual fairness for social media influencers (https://github.com/StefaniaI/ABM-IFforSMI), which accompanies the paper "The role of luck in the success of social media influencers" (Applied Network Science, 2023). This repository also includes a file with supplementary materials for the aforementioned  paper. The pdf contains diagrams which graphically ilustrate the model and additional sensitivity analysis.
 
